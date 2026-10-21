@@ -6,3 +6,11 @@ body {
 h2 {
     color: #502C1B;
 }
+
+#map{
+    object-fit: contain;
+}
+
+li{
+    list-style:url("testArrow.jpg");
+}
